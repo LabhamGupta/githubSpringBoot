@@ -12,6 +12,7 @@ public class SpringMvcBlogAppApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringMvcBlogAppApplication.class, args);
+        
     }
 
     // Start internal H2 server so we can query the DB from IDE
