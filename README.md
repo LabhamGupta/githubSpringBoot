@@ -1,6 +1,6 @@
 # Blogging platform (made with Spring Boot)
 ## Live Demo (runs on HerokuApp)
-[https://tomcat.skaringa.dev/spring-blog-app/](https://damp-cliffs-40299.herokuapp.com/)
+[https://damp-cliffs-40299.herokuapp.com/]
 
 ## About the project
 Application made using:\
@@ -25,7 +25,7 @@ Front-end made using Thymeleaf templates.
 
 Open terminal and use git clone command to download the remote GitHub repository to your computer:
 ```
-[git clone https://github.com/skarware/spring-boot-blog-app.git](https://github.com/LabhamGupta/githubSpringBoot)
+[git clone https://github.com/LabhamGupta/githubSpringBoot]
 ```
 It will create a new folder with same name as GitHub repository "spring-boot-blog-app". All the project files and git data will be cloned into it. After cloning complete change directories into that new folder:
 ```
