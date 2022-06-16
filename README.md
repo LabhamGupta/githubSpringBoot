@@ -14,7 +14,7 @@ Application made using:\
        Thymeleaf\
         Maven</b></i>.
  
-Unregistered/anonymous blog users can view all posts and comments;\
+Unregistered/anonymous blog users can view all posts;\
 Registered and logged in users (Authenticated users) can add new posts, view only their own posts, edit or delete them (CRUD functionality);\
 Validation for creating new posts, body must not be empty, title must have length of 7 by default and other;\
 Spring Security authentication and authorization rules ensures that users only able to edit or delete their own posts;\
